@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunalkashyap855&repo=kunalkashyap855)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **kunalkashyap855/kunalkashyap855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=kunalkashyap855&theme=algolia&hide_border=true" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalkashyap855&show_icons=true&theme=algolia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkashyap855&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
