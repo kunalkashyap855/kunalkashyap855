@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=kunalkashyap855&theme=algolia&hide_border=true" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalkashyap855&show_icons=true&theme=algolia)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalkashyap855&show_icons=true&theme=algolia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkashyap855&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
